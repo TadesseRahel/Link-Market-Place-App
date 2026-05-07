@@ -28,28 +28,28 @@ You can start developing by editing the files inside the **app** directory. This
 ## 📸 Screenshots
 
 ### Welcome Screen
-![Welcome Screen](assets/screenshots/welcome-screen.png)
+![Welcome Screen](assets/screenshots/welcome-screen.jpg)
 
 ### Explore Screen
-![Explore Screen](assets/screenshots/explore-screen.png)
+![Explore Screen](assets/screenshots/explore-screen.jpg)
 
 ### Login Screen
-![Login Screen](assets/screenshots/login-screen.png)
+![Login Screen](assets/screenshots/login-screen.jpg)
 
 ### Sell Item Screen
-![Sell Item](assets/screenshots/sell-item-screen.png)
+![Sell Item](assets/screenshots/sell-item-screen.jpg)
 
 ### Marketplace Home
-![Marketplace Home](assets/screenshots/marketplace-home.png)
+![Marketplace Home](assets/screenshots/marketplace-home.jpg)
 
 ### Product Listings
-![Product Listings](assets/screenshots/product-listings.png)
+![Product Listings](assets/screenshots/product-listings.jpg)
 
 ### Product Details
-![Product Details](assets/screenshots/product-details.png)
+![Product Details](assets/screenshots/product-details.jpg)
 
 ### Seller Profile
-![Seller Profile](assets/screenshots/seller-profile.png)
+![Seller Profile](assets/screenshots/seller-profile.jpg)
 
 ## Get a fresh project
 
