@@ -149,7 +149,16 @@ const styles = StyleSheet.create({
     height: '60%',
     backgroundColor: '#1a2980',
   },
-  
+  bgBottom: {
+    position: 'absolute',
+    bottom: 0,
+    left: 0,
+    right: 0,
+    height: '45%',
+    backgroundColor: '#26d0ce',
+    opacity: 0.25,
+    borderTopLeftRadius: 200,
+  },
 
   /* Decorative blurred circles */
   circle: {
@@ -158,8 +167,32 @@ const styles = StyleSheet.create({
     opacity: 0.12,
     backgroundColor: '#fff',
   },
-  
+  circleL: {
+    width: 280,
+    height: 280,
+    top: -60,
+    left: -80,
+  },
+  circleR: {
+    width: 200,
+    height: 200,
+    bottom: 60,
+    right: -60,
+  },
 
+  /* Logo */
+  logoWrapper: {
+    width: width * 0.42,
+    height: width * 0.42,
+    borderRadius: width * 0.1,
+    overflow: 'hidden',
+    marginBottom: 28,
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 12 },
+    shadowOpacity: 0.4,
+    shadowRadius: 20,
+    elevation: 20,
+  },
   logo: {
     width: '100%',
     height: '100%',
@@ -181,7 +214,18 @@ const styles = StyleSheet.create({
     marginBottom: 44,
   },
 
-
+  /* Loading dots */
+  dotsRow: {
+    flexDirection: 'row',
+    gap: 10,
+    marginBottom: 60,
+  },
+  dot: {
+    width: 10,
+    height: 10,
+    borderRadius: 5,
+    backgroundColor: '#ffffff',
+  },
 
   /* Slogan */
   slogan: {
