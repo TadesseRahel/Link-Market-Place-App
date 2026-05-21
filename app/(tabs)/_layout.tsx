@@ -16,7 +16,7 @@ export default function TabLayout() {
         headerShown: false,
         tabBarButton: HapticTab,
         tabBarStyle: {
-          backgroundColor: '#000', // Matching the dark tab bar in your screenshot
+          backgroundColor: '#000', 
           borderTopWidth: 0,
           height: 60,
           paddingBottom: 8,
